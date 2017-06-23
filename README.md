@@ -1,13 +1,10 @@
-# CMPE-282-EData
-This is the final project for my course CMPE 282 - Cloud Services. 
+# EData - Employee Data
+ 
+- Implemented continuous integration usign Jenkins.
+- Developed Single Sign On (SSO) using Auth0 and OneLogin.
+- Used Auth0's libraries in node.js.
+- User can login using his/her Google and GitHub Account.
+- User can see details of Employee Database using Various Types of Charts.
 
 
-• Developed Website for Employees Data visualization.
 
-• Implemented Single Sign On (SSO) using Auth0 and OneLogin in node.js.
-
-• Used Jenkins for continuous integration. 
-
-• Used Selenium for automation.
-
-• Technologies: Node.js, Express, Amazon EC2, Auth0, OneLogin, Jenkins, GitHub, Selenium, PHP, Apache Server, JavaScript, MYSQL, AJAX, CSS, HTML
